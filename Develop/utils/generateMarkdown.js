@@ -73,4 +73,4 @@ If you have any questions, you can reach me at [GitHub](https://github.com/${dat
 `;
 }
 
-module.exports = generateMarkdown;
+export default generateMarkdown;
