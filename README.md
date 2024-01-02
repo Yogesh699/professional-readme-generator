@@ -1,5 +1,8 @@
 # Professional README Generator
 
+![image](https://github.com/Yogesh699/professional-readme-generator/assets/143371945/4d35e558-bff2-41ff-8da7-8ec5765cfe4c)
+
+
 ## Description
 
 The Professional README Generator is a command-line application built with Node.js that streamlines the process of creating a high-quality `README.md` file for your GitHub projects. A well-crafted README is essential for providing users and potential contributors with valuable information about your project.
